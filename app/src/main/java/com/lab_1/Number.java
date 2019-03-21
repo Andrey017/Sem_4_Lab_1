@@ -86,11 +86,6 @@ public class Number {
             case 9:
                 return "девять";
             default:
-                /*try {
-                    throw new IllegalAccessException("getFromFro1to9 expets number from 1 to 9\n" + x + " found\n");
-                } catch (IllegalAccessException e) {
-                    e.printStackTrace();
-                }*/
         }
         return null;
     }
